@@ -1,0 +1,10 @@
+networkx
+plotly
+dash
+pandas
+numpy
+scipy
+leidenalg
+igraph
+scikit-learn
+plotly
