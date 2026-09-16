@@ -2,6 +2,7 @@ from pathlib import Path
 from collections import deque
 import random
 import math
+import time
 
 import networkx as nx
 import pandas as pd
@@ -26,7 +27,7 @@ WEIGHT = "weight"
 
 # First try 5 runs.
 # For the final experiment you can increase this to 20.
-N_RUNS = 5
+N_RUNS = 10
 
 SEED = 42
 
@@ -577,23 +578,29 @@ def run_weo(
         print(f"WEO RUN {run}")
         print("=" * 60)
 
+        start_time = time.perf_counter()
+
         partition, q = weo_single_run(
             G,
             seed=run_seed
         )
 
+        run_time = time.perf_counter() - start_time
+
         print()
         print(
             f"Run {run}: "
             f"Qw = {q:.6f}, "
-            f"communities = {len(partition)}"
+            f"communities = {len(partition)}, "
+            f"time = {run_time:.2f} s"
         )
 
         summary.append({
             "run": run,
             "seed": run_seed,
             "weighted_modularity": q,
-            "number_of_communities": len(partition)
+            "number_of_communities": len(partition),
+            "runtime_seconds": run_time
         })
 
         if q > best_q:
