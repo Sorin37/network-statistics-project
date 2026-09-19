@@ -57,6 +57,7 @@ if __name__ == "__main__":
         reporter.export_purity_matrix()
         reporter.plot_resolution_profile(full_gammas, full_n_comms)
         reporter.plot_network_graph()
+        reporter.plot_party_stacked_bar()
         reporter.plot_sankey_diagram()
 
         label_nmi = reporter.calculate_nmi()

@@ -1,5 +1,6 @@
 import pandas as pd
 import plotly.graph_objects as go
+import plotly.colors as pc
 from pathlib import Path
 import html
 from sklearn.metrics import normalized_mutual_info_score
@@ -119,6 +120,48 @@ class CommunityReporter:
         
         out_path = self.artifacts_dir / f"network_graph_with_edges{self.file_prefix}.html"
         net_fig.write_html(str(out_path))
+
+    def plot_party_stacked_bar(self):
+        """Generates a stacked bar chart of the party composition of each
+        detected Leiden community (x = community, stacks = parties)."""
+        counts = self.df.groupby(
+            ['Leiden_Community', 'Actual_Party']
+        ).size().reset_index(name='Count')
+
+        communities = sorted(self.df['Leiden_Community'].unique())
+        parties = sorted(self.df['Actual_Party'].unique().tolist())
+        party_colors = dict(zip(parties, pc.sample_colorscale('Turbo', len(parties))))
+
+        mat = counts.pivot(
+            index='Leiden_Community', columns='Actual_Party', values='Count'
+        ).fillna(0).astype(int)
+        mat = mat.reindex(communities)
+        x_labels = ["Community " + str(c) for c in communities]
+
+        fig = go.Figure()
+        for party in parties:
+            fig.add_trace(go.Bar(
+                x=x_labels,
+                y=mat[party],
+                name=party,
+                marker_color=party_colors[party],
+                hovertemplate=(
+                    "Community %{x}<br>%{fullData.name}: %{y} MPs<extra></extra>"
+                ),
+            ))
+
+        fig.update_layout(
+            title="MP Party Belonging per Detected Community",
+            barmode='stack',
+            xaxis_title="Leiden Community",
+            yaxis_title="Number of MPs",
+            template="plotly_white",
+            legend_title_text="Political Party",
+        )
+        fig.update_yaxes(dtick=1)
+
+        out_path = self.artifacts_dir / f"party_stacked_bar{self.file_prefix}.html"
+        fig.write_html(str(out_path))
 
     def plot_sankey_diagram(self):
         """Generates a structural flow diagram mapping Leiden communities to formal parties."""
