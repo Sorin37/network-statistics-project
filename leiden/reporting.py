@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 from pathlib import Path
 import html
 from sklearn.metrics import normalized_mutual_info_score
+import igraph as ig
 
 
 class CommunityReporter:
@@ -166,3 +167,7 @@ class CommunityReporter:
         )
             
         return nmi_score
+
+    def compute_modularity(self, graph: ig.Graph, membership) -> float:
+        """Computes modularity of the given membership on the given graph."""
+        return graph.modularity(membership=membership, weights="weight")
