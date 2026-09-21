@@ -4,6 +4,8 @@ import leidenalg as la
 from pathlib import Path
 from community_pipeline import LeidenCommunityPipeline
 from reporting import CommunityReporter
+import igraph as ig
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -18,8 +20,10 @@ if __name__ == "__main__":
     artifacts_dir.mkdir(exist_ok=True)
 
     logger.info("Initializing Leiden Community Pipeline...")
-    pipeline = LeidenCommunityPipeline("political_network_clean_lcc.gml")
+    pipeline = LeidenCommunityPipeline("political_network_clean_full.gml")
     pipeline.load_network()
+
+    graph = ig.Graph.Read_GML("political_network_clean_full.gml")
 
     logger.info("Generating resolution profile data for visual inspection...")
     gammas, n_comms = pipeline.generate_resolution_profile_data()
@@ -30,7 +34,7 @@ if __name__ == "__main__":
     logger.info("Saved resolution profile plot to artifacts/resolution_profile.html")
 
     # Set optimal gamma based on the community plateau identified in the resolution profile plot
-    optimal_gamma = 1.7
+    optimal_gamma = 1
     logger.info(f"Using selected gamma: Gamma = {optimal_gamma}")
 
     # Generate the final partition using the selected resolution
@@ -38,6 +42,10 @@ if __name__ == "__main__":
     final_partition = pipeline.generate_final_partition(optimal_gamma)
     
     logger.info(f"Partition complete. Detected {len(final_partition)} distinct communities.")
+
+    modularity_score = temp_reporter.compute_modularity(graph, final_partition.membership)
+
+    logger.info(f"Modularity score: {modularity_score}")
 
     # Export artifacts
     logger.info("Exporting mapping tables, purity matrix, and visualizations...")

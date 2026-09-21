@@ -43,3 +43,4 @@ class LeidenCommunityPipeline:
             seed=42 # Fix seed for output reproducibility 
         )
         return final_partition
+

@@ -17,7 +17,7 @@ if __name__ == "__main__":
     artifacts_dir = Path("artifacts")
     artifacts_dir.mkdir(exist_ok=True)
 
-    pipeline = LeidenCommunityPipeline("political_network_clean_lcc.gml")
+    pipeline = LeidenCommunityPipeline("political_network_clean_full.gml")
 
     logger.info("Running edge pruning experiment...")
     experiment = EdgePruningExperiment(pipeline, artifacts_dir)
