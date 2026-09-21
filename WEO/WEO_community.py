@@ -18,7 +18,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 GRAPH_PATH = (
     PROJECT_ROOT
     / "data cleaning"
-    / "political_network_clean_lcc.gml"
+    / "political_network_clean_full.gml"
 )
 
 OUTPUT_DIR = Path(__file__).resolve().parent / "results"
@@ -27,7 +27,7 @@ WEIGHT = "weight"
 
 # First try 5 runs.
 # For the final experiment you can increase this to 20.
-N_RUNS = 10
+N_RUNS = 5
 
 SEED = 42
 

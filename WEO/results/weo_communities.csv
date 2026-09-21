@@ -1,356 +1,366 @@
 node_id,name,weighted_degree,weo_community
-c7822b58-103f-4612-87ef-648be97192c6,E.M. Westerveld,2073.0,1
-4c3e51e6-9f1e-49cc-a919-f74a8c88343e,A.H. Kuiken,1945.0,1
+71cbc21c-4e36-4df7-9f58-e15a1c1f162c,R.K. Dik-Faber,3373.0,1
+ee32e8d2-aa15-4603-901e-2cc3c72e9ead,A.H. (Agnes) Mulder,2516.0,1
 238396aa-d91b-46ee-a7e9-301e9ac7bd7e,J.S. Voordewind,1936.0,1
-2b533923-83a2-4ac6-b497-934a549b50ab,J.J. (Jasper) van Dijk,1836.0,1
-fdc445bd-f8fe-4cfc-b387-7fd66a181674,M. van Nispen,1292.0,1
+2e1211a4-9506-4dbe-ab15-1b881bb87074,L. van Tongeren,1723.0,1
 bf030048-0434-42f1-bbed-8b0c04014db4,S.W. Sjoerdsma,1272.0,1
-56a86879-60e4-4cdb-b5f1-b66d6d090798,J.P. Kwint,1073.0,1
-4eacd971-8961-4956-b73b-7de0745de280,K.A.E. van den Hul,1070.0,1
+9d2229a5-c46a-485a-9b82-315e270c3e9a,S. van Veldhoven,1251.0,1
+d1bb566e-a111-43b7-8856-273ebac1f753,S.P.R.A. van Weyenberg,1092.0,1
 cefbf19c-653b-4af7-84a6-e17fba0e4a70,A. van Ojik,1030.0,1
 39023322-8e6c-4cb4-b42d-c5bf80377dd6,L.G.J. Voortman,1011.0,1
-17f26a48-9f54-42a1-9890-c6da761a9a2f,P.H. van Meenen,987.0,1
-aa0272f6-6e3c-41f7-b040-b774b30d2196,V.A. Bergkamp,969.0,1
-bd954447-a92c-4899-a9a8-4a58569fd4d2,M.M. van Toorenburg,847.0,1
+ab97f146-7308-4a7e-9197-2ef5ee467a95,E. Dijkgraaf,954.0,1
+10870c31-0253-4fa0-a2bc-1a6d3c553028,J.L. Geurts,898.0,1
+d53f00ee-a955-434a-b636-f07d79859c49,M.F. Sienot,861.0,1
 e7f0d8e8-4c52-4d0a-8b94-28729046f45b,M.J.F. van Helvert,844.0,1
+44d2b41e-0e28-46c4-972b-daf49b4d9824,E.M.A. Smaling,804.0,1
+9ab41898-332f-4c08-a834-d58b4669c990,D. Yesilgöz-Zegerius,786.0,1
 0314d9fa-9128-48ac-acdf-308380c77dde,S. Karabulut,776.0,1
 29124ef6-e1d5-4138-bf01-8433afde7269,S. Belhaj,690.0,1
-8ba16b4b-5dc1-441e-9229-8bb63c903ce1,W.P.H.J. Peters,638.0,1
-88bf9f29-aa91-4ddd-ad2d-b73dfe6706ef,A. Kuik,635.0,1
 202e3325-7f81-4c5a-8aee-386a4bcd87e2,H.J. Grashoff,612.0,1
-4a92f48a-0387-47c7-800e-cf59692e6411,M.R.J. Rog,607.0,1
 36ff4d40-ec26-4ba3-9370-3ec3b73c42ff,J.W.M. Kerstens,598.0,1
-7d18b6e3-de0c-4aea-bef8-242bbc38e936,J. van Wijngaarden,575.0,1
-bf97025a-1c30-4042-bffe-948027f24e6c,A.E. Diertens,522.0,1
 ac61813c-2d49-4318-b5d0-32e3559b8db4,S.M.J.G. Gesthuizen,476.0,1
 935fc903-0272-4f85-84e7-6c22aa9710f3,K. Verhoeven,475.0,1
-3c3a7304-0f4d-4b1f-a953-a6515b8b7670,K.M. Buitenweg,474.0,1
-e10065e1-776d-4bf3-8669-56788c453079,W.J.T. Renkema,441.0,1
+3b8c5482-7bdb-414b-97c7-ca34fb10da6f,C.J. Schouten,465.0,1
+446e3e45-8e03-4f8d-bb52-ea092634378f,W.J.H. Lodders,462.0,1
 56cbb44d-9390-480d-b686-56da6c2d6d35,A. Bosman,440.0,1
-2211a588-7417-4e26-a386-801fe8798bd1,C.J.E. Kooiman,420.0,1
-ae91b7a3-544d-40c7-8373-815a0bd18cf0,A.A.G.M. van Raak,414.0,1
+caaae646-de85-453f-b6e0-9b9b4f710f03,J.C. (Jan) Vos,410.0,1
 c128a46d-ebd9-4ee9-80cc-16bfe505e539,H.G.J. Bruins Slot,397.0,1
-a4074721-5d4d-444a-bb98-1ddbc592a78a,N. Özütok,396.0,1
-99c6218e-8f0c-45d4-bd24-f300c6cfcb2f,C.N. van den Berge,394.0,1
-b4fdf408-8296-4d14-9e95-b4b96dc20751,C.J.L. van Dam,370.0,1
-0ac5a30c-b25b-41cf-97ce-b3c1b3687202,M. Groothuizen,370.0,1
 a901d2d2-35f6-4341-bbfb-38e5d9b21d07,L.I. Diks,345.0,1
-b7a52679-bac9-4e00-9dfd-06a22a7cf088,M. Mohandis,343.0,1
-b9cfefa1-1e5e-4fd7-a9d5-458e4c3a20db,H.J. Beertema,341.0,1
+b8d002bc-ea6c-4f57-b36e-38415b205e09,A. (Aukje) de Vries,339.0,1
 44f6140e-9776-4c08-bd68-5dde99f2ab62,A.G. Schouw,325.0,1
-8c5a8186-8f46-4bca-956d-06d4fa521635,M.C.G. Keijzer,300.0,1
-6fc5878e-d76a-4e9d-a4e3-e5ef581bb2ff,R. Raemakers,288.0,1
-74b44968-d1f2-482a-a365-1fbb4cbda7f9,L.M.J.S. Helder,282.0,1
-522d59a0-10ba-488f-a27a-a1dda7581900,R.J. (Rudmer) Heerema,271.0,1
-14a5b9c6-b7e3-4a59-9083-ab81f1d50f7e,L. Ypma,270.0,1
+3983584c-76b6-4a70-9040-dadc84949e88,J.M. van Eijs,312.0,1
+9ea41959-b952-4e42-92fb-bc616ac17241,H.A.G. Ronnes,310.0,1
+2d120900-fed8-43ae-a234-2bc4af510867,R.J. Klever,310.0,1
+e5c9b4ba-9064-4858-a052-bb3bbecfac4b,N.P.M. Klein,287.0,1
+c6b2bdaf-8c1f-4b88-a8cb-167941b98bfb,R.A. van Vliet,256.0,1
+c955972d-2702-4d28-8461-262072218f3f,B. Visser,249.0,1
 8dfa0156-0834-4c00-87e8-c4e9919f781f,R.W. Knops,242.0,1
-81d3a9a6-03c1-424b-873f-2df53af69e6c,P. Oskam,234.0,1
-a04d4b85-56f0-448f-b5e8-28b5340af204,M.J.T.G. van Beukering-Huijbregts,228.0,1
-07de26f3-a939-4ae4-b7a5-43f868a665d1,P.A. (Pia) Dijkstra,226.0,1
-fb291eb2-962a-482f-971a-0b62673f9a86,J.M.P. van der Laan,205.0,1
+b1e4718d-bf16-4b46-91fd-946b42bed3af,L. Jacobi,193.0,1
 c1c11045-81c6-43a3-96e4-4cc6d5f2fbb4,F. Koser Kaya,190.0,1
 f29c0ba8-4d4a-4cca-bb1b-229f68b4ae6a,S.M.G. Koopmans,190.0,1
-973da897-66c7-4010-a98d-505e0e97a60c,I.J.M. Michon-Derkzen,188.0,1
-83a1ccbf-fe6a-4f7a-a0d0-4cf90337ab90,M.A. Berndsen-Jansen,187.0,1
-872e3c31-98a5-40cb-b7dc-9c821f3b1bca,T.E. Siderius,185.0,1
 7265b8e8-62d4-4ba2-8117-8f758fbf606e,H. van Bommel,185.0,1
+f0ff5ae5-e0e8-4a26-af3a-93c8b5947dc4,D. Hoogland,184.0,1
+9522ae6b-a187-4f51-9df7-1b0feb767d6e,W. Koolmees,184.0,1
 6ce9c9e8-daec-4ef0-b975-f372e100d3e6,A. Bouali,178.0,1
-1456a009-770b-4820-8919-55287a5780a7,F. van Oosten,176.0,1
-808636f6-10d2-4ed6-a5fe-f98ab3fcbbee,M.G.W. den Boer,168.0,1
+54cbf78c-ae5e-49b7-8fcc-41d0fb7b5855,A.Z. Merkies,169.0,1
+aa612b6e-b61d-43a8-8775-c83839a9f6ef,J.J. van Klaveren,168.0,1
 3dbbf804-bad5-44f2-b8c7-091baf63758d,J.H. ten Broeke,167.0,1
-a900b4e7-92d9-4903-ab21-3189f17fe2e0,M.J.J. Rebel,159.0,1
-84e7ec53-7bec-491e-bec7-19b6b1d359b1,S.R. Fritsma,154.0,1
 03a9cbc5-b47d-45b5-81a4-f926c6a326a8,J.S. Monasch,152.0,1
-b3230578-426f-4b84-bfe2-6a8136c6a3af,A.J.M. Laan-Geselschap,152.0,1
-a962ffcb-a300-45e1-8850-70c7173c233e,B. Becker,150.0,1
-2538ca6a-8254-4c7e-af71-a20db82afd30,O.C. Tellegen,149.0,1
-eef0e09f-c709-4de5-8b44-086876d5f631,J. Recourt,146.0,1
-4d13ea1d-c9b6-4313-8ba0-fd040d8a319e,A.C.L. (Arno) Rutte,142.0,1
-c606904d-daef-44ff-bd30-cfdc1e6b5185,L. Bontes,141.0,1
-10eeecd7-86d3-462c-b305-b66c787d6c9b,K.C.J. Straus,135.0,1
+0c33030f-88e2-44c8-803d-6dd7c58c1378,R.P. van Laar,150.0,1
+5a2cb9b8-4a4c-4860-8793-59da092434b6,M.G.J. Harbers,149.0,1
+6c2ee55a-fa05-4a41-b522-c878c6a61ce8,A.A. (Albert) de Vries,144.0,1
+d6c2b5eb-b21a-440a-b628-75492d313ffa,J. Houwers,140.0,1
 d653bf17-e60f-4512-9258-a68ec026e381,W. Hachchi,134.0,1
+4bfc5a46-654d-445f-9b71-fc3e06d40ae4,F. Bashir,133.0,1
 95b979e4-888d-402d-8167-4f817cea413b,P. Ulenbelt,131.0,1
-8133067c-1a90-482b-9ee4-e585a096ffb5,J.C.M. Swinkels,129.0,1
-ad8654f3-811a-4a63-ab7a-01bf76347caa,L.W.D. Geluk-Poortvliet,126.0,1
 02d6be0f-0377-4293-8835-17004dfce694,M. Servaes,126.0,1
+49f5b5f1-da8f-40a0-b78e-0616e2f30f78,Y. Cegerek,125.0,1
+77d2c6f1-3af4-4256-b52f-23fcb7bb8be2,B.G. de Boer,121.0,1
 43fd0a28-6a9c-4427-a55c-211fbae70091,O.E.T. (Otwin) van Dijk,121.0,1
-9f855643-68a2-409e-b4fe-81b92547212a,S. Mutluer,120.0,1
-c4f7c468-721e-4953-97f2-bff05fe570c4,Z. El Yassini,114.0,1
-0e34f732-337a-4339-961f-8c18d68e714d,M.L.J. Paul,113.0,1
-0b55495e-b33f-4707-96b7-d9c62bb68669,P.J. Duisenberg,112.0,1
+7c43c8c2-1958-496c-8060-b0f3bf652992,B. Madlener,111.0,1
 5dfe97b2-fffb-4586-a999-1cbcfde80674,T.J.H. van den Nieuwenhuijzen,111.0,1
-8f6a5115-367e-4dc2-88c5-1eae50593652,N. Drost,110.0,1
-4d6bf62d-9d27-49b5-b00f-254d6ff6e4e1,M. Wörsdörfer,105.0,1
+de674538-350f-4a5a-9f8e-fa8f7c4b93ca,S. de Rouwe,108.0,1
+1899007b-67d2-4699-b896-2fdd92b69fc1,R.E. van der Linde,107.0,1
 fd45195f-c35d-47c9-844e-a5893e10839e,A. van den Bosch,101.0,1
 9f3aadb0-0f76-49b8-9e54-126c97fc0ae8,H. Fokke,99.0,1
-fd544ce8-6d2a-4d79-81e0-c240fcf1776e,K. Regterschot,94.0,1
-6a54c095-9872-4322-81be-114b74233d40,J.J. van der Werf,94.0,1
+ac969248-8799-4f53-ad71-76815c79da35,P.F.C. (Paulus) Jansen,91.0,1
 13212269-878d-4abd-82b3-dcebd68073fd,S.C.C.M. Potters,88.0,1
-9431dc1b-9891-4d15-aaf1-b98e347c3b46,L.A. de Lange,74.0,1
+aa316142-d6ee-4138-bf48-37cd7d11d058,R.A. Vermeij,81.0,1
 4d73ea92-7e5c-4964-bc40-d80f38860ae4,K. Yücel,74.0,1
-80d891ee-7f80-4d4f-b486-3b0d1a9fd67a,A. Marcouch,72.0,1
 ce747c36-3ef4-49e3-b55e-1bc99db62413,A.M.C. Eijsink,71.0,1
-5d3c16f6-cad0-432f-b850-8a62cfb6526c,T.M. Jadnanansing,69.0,1
 0a77cc29-6953-4ca2-af45-37d4c83108a2,I.S.H. de Caluwé,69.0,1
 c01b88c4-5507-49c5-9ec3-f08af6e6eace,T.R. van Dekken,69.0,1
-93ace320-ab4e-42d3-9783-b2e2e02eb546,C.N.A. Nijkerken-de Haan,68.0,1
+d3023879-e3c7-411b-bb8a-1a0be0ca6035,J. Taverne,67.0,1
 581d8f64-6060-4cf0-b281-a46ad978cf0d,B. van 't Wout,66.0,1
 edefa48b-f14e-4ec3-ab3c-dfe2aa0126ec,M.L. (Mei Li) Vos,65.0,1
+4a9d1641-505a-4e22-96d3-36be9d1e6322,V.A. Groot,64.0,1
 edb8800b-6f1b-4e13-be0a-5b88fbd13c82,R.F.A. Oosenbrug,63.0,1
 990c794a-2170-435a-8c43-97d4fd0e621e,J.G.P. Vermue,61.0,1
-cfd07390-25a9-4fdb-bced-8a463530bf51,L.T. Bouwmeester,57.0,1
-ad44b24f-bb14-4f4a-a476-3cbbb3e9cdb0,T. van Gent,54.0,1
-d642dcc9-3f86-49d1-96c9-ae2771d1e89a,B.M.G. Smals,51.0,1
+61721e3f-a394-42ff-9885-8a58aa1d1612,Y.J. van Hijum,52.0,1
+cd5a2cfd-7689-4a6e-aed1-df2a773bab9c,H.J.M. Leenders,50.0,1
+2c1bbe45-f5e6-4896-b487-5d2864198a11,R.W. Leegte,48.0,1
 a3986ffd-c057-46cc-afd5-54846c9955ef,F. Teeven,48.0,1
+98cf30be-80d9-498a-966f-10f3ae8ffe22,H. Neppérus,44.0,1
+71df2edb-5973-46ec-82d7-c65ccd00abd4,M.E. Maij,42.0,1
 26fafe12-cb5a-4eee-bca0-dc78cb688be3,S. Günal-Gezer,42.0,1
 974099ff-20a6-4119-84be-96e244befc55,M. Azmani,36.0,1
 8129f279-1ddd-45e3-8de4-e9ceb5a68d34,A. (Anne) Mulder,35.0,1
-9c4710f5-fb0b-42cc-9d53-4cf5dfe6e27c,A.G. Wolbert,32.0,1
-c3adeaa2-c232-48f9-967d-caf4b0b51719,A.W. Lucas,31.0,1
-23fcb971-c02b-4a00-aa1f-6feed871c5d4,I.K. van Engelshoven,27.0,1
+f6e59e50-f22a-450c-8d4f-8a7072e50277,G.J.F. Popken,32.0,1
 af31a147-9feb-4f6e-8e8a-aeced0fcc56f,R. Vuijk,27.0,1
-fac3056b-df3b-4712-9ae3-56472806747b,M.H.H. Baay-Timmerman,25.0,1
 7f11ad79-297b-4b42-9fe0-f3fd38a470a9,A. Schut-Welkzijn,24.0,1
-e6e673f5-f0a7-4d34-a6aa-d2f12fed24ed,G.A. van der Steur,24.0,1
-efd89dff-2cde-4afc-ab14-e4f9795d1407,M.N. Bolkestein,23.0,1
 0d09a569-a906-4f4f-a2fb-cb2fedbf1c8c,M.S. van Veen,22.0,1
 6e4027b2-cb08-44ca-b030-07d9074512d1,S.W. Dikkers,21.0,1
 78464103-e740-4fff-b508-c5377a089cb7,P.J.M. Litjens,19.0,1
 20427a83-6da2-4f6d-aee0-7516ba4feab1,G.S.I.A. Tanamal,18.0,1
 de076177-b820-4aff-9629-6829277e1c16,M.L. Verheijen,18.0,1
-d3eeba5c-e756-485b-978e-a91629c31e57,J.M.A.M. de Wit,17.0,1
 2d1a4211-d500-4922-bbf5-0bd64353329c,B.C. de Liefde,14.0,1
 a1811d65-87c9-484a-ac37-d0ba90214f91,Y. Berckmoes-Duindam,12.0,1
-c1554da8-5650-43fe-893a-2cd8f5f8b4d5,G.M.Mc. William,8.0,1
-da26504f-588f-4f69-85bd-1e2b627441e2,R.G. Tjon ,8.0,1
-306ecdd8-bc7c-4311-aaf0-ccc29222313f,S.M. Richardson,6.0,1
-7f3c60c7-b846-4f3a-a9f4-a18abf37bb3a,T. van Ark,5.0,1
-14d9be8b-5e75-401c-a1cc-7a8ab59b36e7,A.A. Asante,5.0,1
+33647c30-4edf-4fdf-93e5-5977180982a0,T.M.Ch. Elias,12.0,1
+fcdd8eba-ce4c-40ad-b68e-4fe542abd6b3,M.I. Hamer,9.0,1
+ffb9d98c-95af-42f8-974f-a0eb99c90837,C. van Nieuwenhuizen-Wijbenga,8.0,1
 6490a01c-b871-4639-8d60-820be9ac7834,R.P.G. (Remco) Bosma,5.0,1
-0c78eba7-66a3-4ec9-b084-ed30e0ec5d6f,A. van Miltenburg,4.0,1
-b41b2403-9f06-4d55-adc5-b0777373ca7e,C.A.M. van der Plas,2880.0,2
-98aa8bde-85b0-49ed-9795-e2eeb206e3b8,C. Stoffer,2753.0,2
-5d54939f-2da7-4ca6-b159-4ef344336b21,L. van Raan,2355.0,2
-0ae6735e-4b1b-4302-a20e-bbe5b72155c3,S.H. Simons,2091.0,2
-9b13c8c8-eba4-411e-b095-858e352d3178,R. Bisschop,2044.0,2
-d847851a-777b-43c6-83b3-392672659edc,P.H. Omtzigt,2019.0,2
-89d70a20-bd10-46ed-866a-2c79362a0559,S.C. Kröger,1697.0,2
-fa4d473c-e553-439e-8f53-ca5f2b203dbd,S.J.F. van der Graaf,1596.0,2
-d38ca3cf-9803-48dc-8592-c67c4430168e,P.A. Grinwis,1475.0,2
-a68468b6-51ea-440c-9387-b44ba10ad8b6,L.A.J.M. Dassen,1416.0,2
-cabae19e-836c-48c4-903e-7357789f9260,G.J. (Gijs) van Dijk,1272.0,2
-b29c0e00-7ac2-4c28-ab4f-8fceb156337b,C.M. van Brenk,1188.0,2
-e6cc253d-14cb-437b-be88-4966f5fcb1f5,R.M. Leijten,1148.0,2
-ccea26dd-dcae-4174-8945-ec5cb568e951,L. Bromet,1118.0,2
-1e4f3007-3e72-4135-80e0-238966189fd4,M. Amhaouch,1033.0,2
-dc9f60e4-e1a4-487b-a002-40b3c77ba896,C. Laçin,1002.0,2
-7cbb2d95-46b2-4fcb-b129-9505f56e7f07,D.G.M. Ceder,953.0,2
-2690bccc-5463-459a-b1df-cb93e222b348,J.M. Paternotte,932.0,2
-a437e923-725f-415e-a01d-5588a7af933e,K.P. Piri,911.0,2
-d34e1efc-fbba-4ad8-823a-61bc3f25d580,M. Koekkoek,803.0,2
-2aeb5ca9-f64f-4ec6-a0ce-83223bff4772,J. Thijssen,760.0,2
-1e8aa099-9c94-432d-bff7-ac9fe20ff3ff,D.G. Boswijk,737.0,2
-337a0873-453c-459f-99c7-2726975a71da,H. van der Molen,728.0,2
-c6e26bd3-724f-45d3-93af-ef431e6fcd42,B.J. Eerdmans,702.0,2
-7564c685-2691-4796-9159-ebd5df4fdc8d,C. Teunissen,686.0,2
-859e1824-cc60-4304-9293-dca932ebbed2,S.R.T. van Baarle,667.0,2
-762e0f40-f100-4896-85a2-b1d8818fae41,T.C. (Tjeerd) de Groot,640.0,2
-bb6801d4-f671-4ade-aa86-29aa89373dd9,M.Ö. Alkaya,578.0,2
-b50b3f0b-afc8-46e5-bfda-cb60e2935a5a,B.A.W. Snels,530.0,2
-e70c3ee3-cca2-4521-abea-b124dcec0952,H.E. de Hoop,525.0,2
-66b2be3d-10f8-46a4-90c6-b86005df0a50,S. Maatoug,512.0,2
-94f6aaa0-69ed-4721-a62c-c2b592bec175,D.J. Eppink,503.0,2
-1ee767b9-67f3-47e5-9e28-045da1c37b05,I. (Inge) van Dijk,502.0,2
-7897cad0-5099-4630-9311-65cc01450063,R.J. (Remco) Dijkstra,474.0,2
-9e79de98-e914-4dc8-8dc7-6d7cb09b93d7,B.C. Kathmann,437.0,2
-196d0048-0369-4786-ba81-bda9da8c3636,B. van Kent,430.0,2
-a1877608-2b03-4620-b854-d57de44cd52e,R.A.J. Schonis,403.0,2
-74c13ffe-54e0-4cfd-a5fd-f21de61a0995,M.R.H.M. von Martels,372.0,2
-cfb17042-9f10-4e44-99f4-358bad067455,M.J. van Rooijen,369.0,2
-dab4cf29-4843-4261-b09b-973fe98dbf65,K. Bouchallikh,362.0,2
-13e26587-88d8-440b-bb93-527a8e845342,R.M. Boucke,352.0,2
-356e5fc9-831f-4d9c-be2f-fd35a99e865b,H.M. Palland,348.0,2
-bf494e35-c009-4c74-a5c6-3cb2cd26bb51,A.A.H. van Campen,343.0,2
-d59d1492-57b6-482b-88b6-b2b77c45c33d,O.R. Ephraim,325.0,2
-942a29b8-057f-4dba-a8cd-3c35e5a81aaf,H. Bontenbal,312.0,2
-06e42e42-dbc8-4ccd-ac29-880d2ba1d05f,E. Ziengs,303.0,2
-c3b1dca8-2cb4-4025-9527-36163a098c1f,A.D. Wiersma,301.0,2
-666f31ca-041f-466d-9e78-804317921d69,R.H. (Romke) de Jong,292.0,2
-49e7fc50-90f5-4476-9275-c31f88864082,L.M. van Ginneken,250.0,2
-397c857a-fda0-414d-8fdc-8288cd3284aa,A.A. Aartsen,241.0,2
-da756f9c-3f10-4ab8-9fa8-75812e248959,J. Wuite,241.0,2
-03d66e4a-8698-44fb-9c29-625630da268c,A.R. Hammelburg,229.0,2
-ec571f94-11b8-47d7-bb47-fd0d2d7c7f07,K. Arib,227.0,2
-da9f33b0-80ca-49eb-a1ec-def3b46538d9,J.C. Sneller,220.0,2
-a396ae20-6309-456b-a5ae-e4068dea8a67,A.P.C. (Tony) van Dijck,201.0,2
-9c8bc5bc-8d13-4c11-be37-57a43a1d734b,S.P.A. Erkens,183.0,2
-face7642-1fd8-4ec1-a909-c2579b0bd8d2,W.L. Postma,183.0,2
-68a869d7-3216-4208-9b57-e87405a11abb,Z. Özdil,176.0,2
-e5c4753f-d2d8-4a4a-ae9d-62118892a731,R.P. Brekelmans,171.0,2
-8349fff0-99b3-449a-bd4d-932ae95b29da,H. Kat,138.0,2
-980a8ae3-b1c7-4912-ab9e-be3e6fd20d36,L. Vestering,123.0,2
-ce400601-651e-4ac9-a43e-ed8d4817b7fd,P.J.T. van Strien,122.0,2
-a59b540b-1460-4aa0-b9ce-19356f87c77e,R.R. van Aalst,120.0,2
-4bf69aa9-29a7-44db-b7ee-8bfa40e343dd,Q.M. Rajkowski,116.0,2
-a3b17348-54cf-4bca-82d4-e62bd46c2fbc,E. Heinen,110.0,2
-cd02edbc-106e-46d1-8d70-6594741356ea,F.B. Minhas,108.0,2
-1899007b-67d2-4699-b896-2fdd92b69fc1,R.E. van der Linde,107.0,2
-b625d2bf-da74-40a2-b013-2069a09dcb6c,P.J. Valstar,102.0,2
+b23257b9-1d5e-4d4f-a2ee-cc4501ae5c6a,R. van der Velde,4.0,1
+1b59d69d-89a1-42c3-b5bf-52f38c39d88d,C.G. van der Staaij,3250.0,2
+299782b9-b45f-4cd6-b1db-abee2be08d81,H.C.M. Krol,2045.0,2
+0d036fcf-a456-4798-9b76-3f44eb74a451,J.F. Klaver,2027.0,2
+4c3e51e6-9f1e-49cc-a919-f74a8c88343e,A.H. Kuiken,1945.0,2
+1bdd5fcc-6231-4781-a4b6-413ae942af01,G.J.M. Segers,1923.0,2
+1c16919b-5c3f-486c-9cc7-bdd00e29e9a4,E. Ouwehand,1630.0,2
+5ab23e3a-aed4-4713-9214-53336765be9d,L.F. Asscher,1417.0,2
+6d33b9bc-7d3a-4a60-b2d7-c2b70cd11ab1,G. Wilders,1348.0,2
+16be6093-7884-4d00-ae31-70dc7062f57a,E.M.J. Ploumen,1331.0,2
+fdc445bd-f8fe-4cfc-b387-7fd66a181674,M. van Nispen,1292.0,2
+9bf12da8-39ea-4505-9500-764bc440cfc9,F.M. van Kooten-Arissen,1262.0,2
+551f9a19-738c-4298-afe1-5ca7959ab74b,C.E. Ellemeet,1239.0,2
+c0d8ed4a-ec11-48e2-a468-6cd93327305b,J.A.M.J. van den Berg,1175.0,2
+197b435e-29b1-4b69-8c6a-b38bc44ffce3,L.M.C. Marijnissen,1139.0,2
+49be3576-cea3-46c0-87eb-89beb108248d,R.A.A. Jetten,1100.0,2
+1c889902-6ede-427c-8682-000f683fffaa,M. Agema,997.0,2
+aa0272f6-6e3c-41f7-b040-b774b30d2196,V.A. Bergkamp,969.0,2
+bb3a9cf3-6f64-4092-85a1-4318244ee603,T.H.P. Baudet,940.0,2
+8711c928-b30d-4859-b091-74678ca63e5b,L. Sazias,927.0,2
+cf4c4d24-798d-4bbe-bf06-23ca674f0d28,P.E. (Pieter) Heerma,915.0,2
+bd954447-a92c-4899-a9a8-4a58569fd4d2,M.M. van Toorenburg,847.0,2
+016247cb-6d9f-408a-9581-ae3769016076,H.P.M. Hijink,793.0,2
+4aa76e80-51db-4c6f-b97c-e7926b39a66c,M.L. Thieme,747.0,2
+7d18b6e3-de0c-4aea-bef8-242bbc38e936,J. van Wijngaarden,575.0,2
+bf97025a-1c30-4042-bffe-948027f24e6c,A.E. Diertens,522.0,2
+0442fb6c-8441-4292-a275-5f701a223cfc,H.S. Veldman,517.0,2
+64522cbc-a297-4c67-a204-1e31deb91f68,H.P.J. van Gerven,515.0,2
+ddaff486-ef62-4200-aeb9-eeb4bedcc620,A. Pechtold,484.0,2
+3c3a7304-0f4d-4b1f-a953-a6515b8b7670,K.M. Buitenweg,474.0,2
+e10065e1-776d-4bf3-8669-56788c453079,W.J.T. Renkema,441.0,2
+2211a588-7417-4e26-a386-801fe8798bd1,C.J.E. Kooiman,420.0,2
+ae91b7a3-544d-40c7-8373-815a0bd18cf0,A.A.G.M. van Raak,414.0,2
+a4074721-5d4d-444a-bb98-1ddbc592a78a,N. Özütok,396.0,2
+99c6218e-8f0c-45d4-bd24-f300c6cfcb2f,C.N. van den Berge,394.0,2
+b4fdf408-8296-4d14-9e95-b4b96dc20751,C.J.L. van Dam,370.0,2
+0ac5a30c-b25b-41cf-97ce-b3c1b3687202,M. Groothuizen,370.0,2
+3dd45c3b-636a-4f17-b11c-72e3cfc56330,E.G.M. Roemer,347.0,2
+b4e1d8cf-e8cf-4b66-9ded-97fc8176fa4a,K.H.D.M. Dijkhoff,318.0,2
+ec273841-069f-408b-b434-8524904ae314,S. van Haersma Buma,311.0,2
+8c5a8186-8f46-4bca-956d-06d4fa521635,M.C.G. Keijzer,300.0,2
+6fc5878e-d76a-4e9d-a4e3-e5ef581bb2ff,R. Raemakers,288.0,2
+74b44968-d1f2-482a-a365-1fbb4cbda7f9,L.M.J.S. Helder,282.0,2
+412ecb41-f20c-477d-b8e7-d7b548a10a44,A. Slob,237.0,2
+d0d8dcbd-4818-4925-a684-13767c7dae0d,E.J. Slootweg,236.0,2
+81d3a9a6-03c1-424b-873f-2df53af69e6c,P. Oskam,234.0,2
+07de26f3-a939-4ae4-b7a5-43f868a665d1,P.A. (Pia) Dijkstra,226.0,2
+b8663b71-f92b-4d2b-a06b-f78dba168d98,S.T.M. Hermans,213.0,2
+83a1ccbf-fe6a-4f7a-a0d0-4cf90337ab90,M.A. Berndsen-Jansen,187.0,2
+7dc8c80e-6b9a-47e5-b61f-d57bcb36158f,S. Geleijnse,179.0,2
+1456a009-770b-4820-8919-55287a5780a7,F. van Oosten,176.0,2
+808636f6-10d2-4ed6-a5fe-f98ab3fcbbee,M.G.W. den Boer,168.0,2
+a900b4e7-92d9-4903-ab21-3189f17fe2e0,M.J.J. Rebel,159.0,2
+84e7ec53-7bec-491e-bec7-19b6b1d359b1,S.R. Fritsma,154.0,2
+b3230578-426f-4b84-bfe2-6a8136c6a3af,A.J.M. Laan-Geselschap,152.0,2
+a962ffcb-a300-45e1-8850-70c7173c233e,B. Becker,150.0,2
+2b537cd5-1203-4c08-8118-b295796deb07,T.U. Hiddema,150.0,2
+2538ca6a-8254-4c7e-af71-a20db82afd30,O.C. Tellegen,149.0,2
+eef0e09f-c709-4de5-8b44-086876d5f631,J. Recourt,146.0,2
+4d13ea1d-c9b6-4313-8ba0-fd040d8a319e,A.C.L. (Arno) Rutte,142.0,2
+c606904d-daef-44ff-bd30-cfdc1e6b5185,L. Bontes,141.0,2
+e5f316f0-e4e7-4cf0-a064-ed9321737487,V. Maeijer,133.0,2
+75c8786e-c5c2-4d12-95ff-4b804234f062,M. de Graaf,131.0,2
+8133067c-1a90-482b-9ee4-e585a096ffb5,J.C.M. Swinkels,129.0,2
+ad8654f3-811a-4a63-ab7a-01bf76347caa,L.W.D. Geluk-Poortvliet,126.0,2
+c60c655f-40ba-47b0-8e93-a2c8d1ff4743,R. de Roon,122.0,2
+92fe14f9-9abe-4759-b311-8b635302c2f2,L.W.E. de Jong,122.0,2
+35d9ddbe-1687-4f95-8821-d5b82c2cf205,D.M. Samsom,119.0,2
+754f2d87-8990-4b77-8181-54d8df8fa63a,G. Markuszower,113.0,2
+8f6a5115-367e-4dc2-88c5-1eae50593652,N. Drost,110.0,2
+c6f061f1-9cb7-4e0a-a281-4fc80527c5d7,S.A.M. Dijksma,103.0,2
 c0648a21-11c6-4b4f-a4be-205d7dcbb746,J. Middendorp,99.0,2
-7954eb2c-1bf5-42af-80dc-85f29b367db0,F.L. Idsinga,94.0,2
-8ee20f38-f3f0-4ff9-b5d9-84557b5ddcb1,H.H. van der Woude,83.0,2
-48d02bab-281c-4bd0-8a50-26bf90a38cc0,E. (Edgar) Mulder,73.0,2
-ef8d31db-0876-4998-b0d9-056643260d46,V.D.D. van Weerdenburg,73.0,2
-d9e78b0a-0a3b-44ef-acd9-15d6e9e19d60,J.J. Klink,68.0,2
-950c21d2-8a14-406d-b3af-877360bbd0ab,A. Podt,62.0,2
-ea21d788-7cfe-41ff-b22f-0664397139af,U. Ellian,61.0,2
-f23be4bd-7b2b-45dd-be84-4f76f11b624a,R.J. Kamminga,51.0,2
-b6c27e98-0f7f-42a2-9fae-50b5f8ca76cc,H. Rahimi,45.0,2
-3322191a-8ca5-4a69-bb2f-d516086c28ae,M. Goudzwaard,41.0,2
-3239df09-c975-4598-b608-b67c74a07e08,H. Dekker-Abdulaziz,34.0,2
-08ad50b1-831e-4f50-bed4-97d9d42b0752,R.J. Dekker,30.0,2
-8767e9de-869e-4e8a-940f-1a63d15eab3c,A.H.J. de Kort,26.0,2
-f067f702-8e06-491a-9498-462205d1aaec,M.F. Strolenberg,23.0,2
-557f8bd5-9f66-4bed-9b5f-86746bb0600a,G.F.C. van Meijeren,22.0,2
-722997ad-c4fa-4012-9ea5-f1314978764b,M.A.J. Snoeren,10.0,2
-85f67e79-5385-444f-9bf0-be01daa37e03,M.J.T. Martens (EP/CDA),6.0,2
-1b59d69d-89a1-42c3-b5bf-52f38c39d88d,C.G. van der Staaij,3250.0,3
-16596afa-9e56-4d0a-a715-f40592825937,T. Kuzu,2421.0,3
-ab15ce32-a527-4526-a5b2-0f2cdb92feeb,W.R. van Haga,2371.0,3
-299782b9-b45f-4cd6-b1db-abee2be08d81,H.C.M. Krol,2045.0,3
-0d036fcf-a456-4798-9b76-3f44eb74a451,J.F. Klaver,2027.0,3
-1bdd5fcc-6231-4781-a4b6-413ae942af01,G.J.M. Segers,1923.0,3
-09155809-0b6e-4f9f-a75b-026aa4b35588,F. Azarkan,1874.0,3
-3e48d4c9-0d66-4b50-9f9c-969b5e314a42,N.L. den Haan,1765.0,3
-1c16919b-5c3f-486c-9cc7-bdd00e29e9a4,E. Ouwehand,1630.0,3
-5ab23e3a-aed4-4713-9214-53336765be9d,L.F. Asscher,1417.0,3
-6d33b9bc-7d3a-4a60-b2d7-c2b70cd11ab1,G. Wilders,1348.0,3
-16be6093-7884-4d00-ae31-70dc7062f57a,E.M.J. Ploumen,1331.0,3
-9bf12da8-39ea-4505-9500-764bc440cfc9,F.M. van Kooten-Arissen,1262.0,3
+fd544ce8-6d2a-4d79-81e0-c240fcf1776e,K. Regterschot,94.0,2
+8dcd68d9-3f9b-4c92-b3e6-9f6c48a3bdfe,H. Zijlstra,89.0,2
+9431dc1b-9891-4d15-aaf1-b98e347c3b46,L.A. de Lange,74.0,2
+80d891ee-7f80-4d4f-b486-3b0d1a9fd67a,A. Marcouch,72.0,2
+cfd07390-25a9-4fdb-bced-8a463530bf51,L.T. Bouwmeester,57.0,2
+ad44b24f-bb14-4f4a-a476-3cbbb3e9cdb0,T. van Gent,54.0,2
+64457f28-37b6-4948-860a-f28bc62b99ae,S.A.M. Kaag,48.0,2
+bf8eb79e-5034-4882-a4c5-413baba477d5,W.B. Hoekstra,46.0,2
+8b3664bd-77e4-468b-af96-f3f4ec27fcce,M. Rutte,46.0,2
+13446ead-584b-4835-88bd-26550c4c2ef2,K. Gerbrands,45.0,2
+3c96ed5d-f7bf-4cae-9ec7-a5a29f5299da,C.A. Jansen,41.0,2
+9c4710f5-fb0b-42cc-9d53-4cf5dfe6e27c,A.G. Wolbert,32.0,2
+81552958-ef83-4fab-8a92-6e5b1975c9ef,E. (Emiel) van Dijk,32.0,2
+3c169621-1134-429d-939c-77bb6dfe3185,L.A.J.M. Dassen,32.0,2
+23fcb971-c02b-4a00-aa1f-6feed871c5d4,I.K. van Engelshoven,27.0,2
+fac3056b-df3b-4712-9ae3-56472806747b,M.H.H. Baay-Timmerman,25.0,2
+e6e673f5-f0a7-4d34-a6aa-d2f12fed24ed,G.A. van der Steur,24.0,2
+efd89dff-2cde-4afc-ab14-e4f9795d1407,M.N. Bolkestein,23.0,2
+d3eeba5c-e756-485b-978e-a91629c31e57,J.M.A.M. de Wit,17.0,2
+c1554da8-5650-43fe-893a-2cd8f5f8b4d5,G.M.Mc. William,8.0,2
+da26504f-588f-4f69-85bd-1e2b627441e2,R.G. Tjon ,8.0,2
+7f3c60c7-b846-4f3a-a9f4-a18abf37bb3a,T. van Ark,5.0,2
+0c78eba7-66a3-4ec9-b084-ed30e0ec5d6f,A. van Miltenburg,4.0,2
+44081df1-828e-4d79-bd27-261be38f66f1,H. Nijboer,2611.0,3
+0ea8e29d-3bfe-4982-8594-9350b527d553,S.M. Beckerman,2534.0,3
+5d54939f-2da7-4ca6-b159-4ef344336b21,L. van Raan,2355.0,3
+75a44c3a-5914-4c8e-9ca4-d987853f5844,T.M.T. van der Lee,2324.0,3
+d07ef52c-cc10-4445-a3a1-dfe50371f110,F.P. Wassenberg,1849.0,3
+89d70a20-bd10-46ed-866a-2c79362a0559,S.C. Kröger,1697.0,3
+fa4d473c-e553-439e-8f53-ca5f2b203dbd,S.J.F. van der Graaf,1596.0,3
+d38ca3cf-9803-48dc-8592-c67c4430168e,P.A. Grinwis,1475.0,3
+819764fa-3a17-467b-8327-30899ed083b6,D.J.G. Graus,1320.0,3
 a8e4581d-5186-4367-95c5-0a754c60b276,E.M. van Esch,1248.0,3
-551f9a19-738c-4298-afe1-5ca7959ab74b,C.E. Ellemeet,1239.0,3
-c0d8ed4a-ec11-48e2-a468-6cd93327305b,J.A.M.J. van den Berg,1175.0,3
-197b435e-29b1-4b69-8c6a-b38bc44ffce3,L.M.C. Marijnissen,1139.0,3
-f31cabe4-e1f4-46db-88a9-b46ba44dded4,N. Gündogan,1103.0,3
-49be3576-cea3-46c0-87eb-89beb108248d,R.A.A. Jetten,1100.0,3
-1c889902-6ede-427c-8682-000f683fffaa,M. Agema,997.0,3
-bb3a9cf3-6f64-4092-85a1-4318244ee603,T.H.P. Baudet,940.0,3
-8711c928-b30d-4859-b091-74678ca63e5b,L. Sazias,927.0,3
-cf4c4d24-798d-4bbe-bf06-23ca674f0d28,P.E. (Pieter) Heerma,915.0,3
-9f0c39d6-4a57-4849-9215-aa1147c7e0f6,N.J.F. Pouw-Verweij,907.0,3
-016247cb-6d9f-408a-9581-ae3769016076,H.P.M. Hijink,793.0,3
-4aa76e80-51db-4c6f-b97c-e7926b39a66c,M.L. Thieme,747.0,3
-388e72cf-63dd-4839-9ce7-5491b6bdcfd8,M.H. Bikker,735.0,3
-0442fb6c-8441-4292-a275-5f701a223cfc,H.S. Veldman,517.0,3
-64522cbc-a297-4c67-a204-1e31deb91f68,H.P.J. van Gerven,515.0,3
-ddaff486-ef62-4200-aeb9-eeb4bedcc620,A. Pechtold,484.0,3
-3dd45c3b-636a-4f17-b11c-72e3cfc56330,E.G.M. Roemer,347.0,3
-b4e1d8cf-e8cf-4b66-9ded-97fc8176fa4a,K.H.D.M. Dijkhoff,318.0,3
-ec273841-069f-408b-b434-8524904ae314,S. van Haersma Buma,311.0,3
-e5c9b4ba-9064-4858-a052-bb3bbecfac4b,N.P.M. Klein,287.0,3
-97ffe642-648f-4dab-a0e8-0720e96e3e35,J.Z.C.M. Tielen,265.0,3
-d89044ef-b7df-4a15-be10-d342fe381664,W. Paulusma,252.0,3
-412ecb41-f20c-477d-b8e7-d7b548a10a44,A. Slob,237.0,3
-b8663b71-f92b-4d2b-a06b-f78dba168d98,S.T.M. Hermans,213.0,3
-2b537cd5-1203-4c08-8118-b295796deb07,T.U. Hiddema,150.0,3
-0d70272a-5caf-4f32-aecb-76277e55999f,L.M. Werner,147.0,3
-e5f316f0-e4e7-4cf0-a064-ed9321737487,V. Maeijer,133.0,3
-75c8786e-c5c2-4d12-95ff-4b804234f062,M. de Graaf,131.0,3
-034829b1-019f-4ee2-8961-83e82ac2eaa3,M. (Martin) Bosma,128.0,3
-c60c655f-40ba-47b0-8e93-a2c8d1ff4743,R. de Roon,122.0,3
-92fe14f9-9abe-4759-b311-8b635302c2f2,L.W.E. de Jong,122.0,3
-35d9ddbe-1687-4f95-8821-d5b82c2cf205,D.M. Samsom,119.0,3
-754f2d87-8990-4b77-8181-54d8df8fa63a,G. Markuszower,113.0,3
-64f39510-b420-4b01-8b5e-2b2f2b0aad91,P. van Houwelingen,107.0,3
-c6f061f1-9cb7-4e0a-a281-4fc80527c5d7,S.A.M. Dijksma,103.0,3
-eb79af3c-a66d-4374-b9e7-34d7f3e92dc7,H.A.J. Smolders,102.0,3
-8dcd68d9-3f9b-4c92-b3e6-9f6c48a3bdfe,H. Zijlstra,89.0,3
-8509e44d-0f9b-413a-a2cd-f64d656c3955,J. van den Hil,87.0,3
-f289b7eb-f6ba-415b-90d9-1124c652637c,F. Sahla,58.0,3
-64457f28-37b6-4948-860a-f28bc62b99ae,S.A.M. Kaag,48.0,3
-bf8eb79e-5034-4882-a4c5-413baba477d5,W.B. Hoekstra,46.0,3
-8b3664bd-77e4-468b-af96-f3f4ec27fcce,M. Rutte,46.0,3
-13446ead-584b-4835-88bd-26550c4c2ef2,K. Gerbrands,45.0,3
-71df2edb-5973-46ec-82d7-c65ccd00abd4,M.E. Maij,42.0,3
-3c96ed5d-f7bf-4cae-9ec7-a5a29f5299da,C.A. Jansen,41.0,3
-13d5095e-c5df-4cbb-a2f4-c0bb142e9397,R. Verkuijlen,36.0,3
-359e90b6-6f1f-47e9-a46b-d0ff54836077,F.J.H. Jansen,35.0,3
-81552958-ef83-4fab-8a92-6e5b1975c9ef,E. (Emiel) van Dijk,32.0,3
-f6e59e50-f22a-450c-8d4f-8a7072e50277,G.J.F. Popken,32.0,3
-3c169621-1134-429d-939c-77bb6dfe3185,L.A.J.M. Dassen,32.0,3
-0cd71c11-bddf-46af-a796-780a4756c2b0,H. Bevers,23.0,3
-2b223ce1-e251-462b-a5fc-971c92bbf37c,D. de Neef,22.0,3
-fcdd8eba-ce4c-40ad-b68e-4fe542abd6b3,M.I. Hamer,9.0,3
-0137f25d-849f-428a-b69b-822301b2274e,S. Kerseboom,6.0,3
-0c463ce0-e8cb-4066-b37c-e664dd2f4203,S. Warmerdam,1.0,3
-71cbc21c-4e36-4df7-9f58-e15a1c1f162c,R.K. Dik-Faber,3373.0,4
-44081df1-828e-4d79-bd27-261be38f66f1,H. Nijboer,2611.0,4
-0ea8e29d-3bfe-4982-8594-9350b527d553,S.M. Beckerman,2534.0,4
-ee32e8d2-aa15-4603-901e-2cc3c72e9ead,A.H. (Agnes) Mulder,2516.0,4
-75a44c3a-5914-4c8e-9ca4-d987853f5844,T.M.T. van der Lee,2324.0,4
-d07ef52c-cc10-4445-a3a1-dfe50371f110,F.P. Wassenberg,1849.0,4
+e6cc253d-14cb-437b-be88-4966f5fcb1f5,R.M. Leijten,1148.0,3
+ccea26dd-dcae-4174-8945-ec5cb568e951,L. Bromet,1118.0,3
+012f6b98-9fad-4022-bbf9-edb9c7138a0f,W.J. Moorlag,1069.0,3
+1e4f3007-3e72-4135-80e0-238966189fd4,M. Amhaouch,1033.0,3
+dc9f60e4-e1a4-487b-a002-40b3c77ba896,C. Laçin,1002.0,3
+2aeb5ca9-f64f-4ec6-a0ce-83223bff4772,J. Thijssen,760.0,3
+1e8aa099-9c94-432d-bff7-ac9fe20ff3ff,D.G. Boswijk,737.0,3
+762e0f40-f100-4896-85a2-b1d8818fae41,T.C. (Tjeerd) de Groot,640.0,3
+bb6801d4-f671-4ade-aa86-29aa89373dd9,M.Ö. Alkaya,578.0,3
+b50b3f0b-afc8-46e5-bfda-cb60e2935a5a,B.A.W. Snels,530.0,3
+1ee767b9-67f3-47e5-9e28-045da1c37b05,I. (Inge) van Dijk,502.0,3
+7897cad0-5099-4630-9311-65cc01450063,R.J. (Remco) Dijkstra,474.0,3
+6bfaf570-5b6f-41e1-baf2-b833f6203513,G.J.P. van Otterloo,435.0,3
+77c541d2-49e3-483f-869d-134df420c5ea,A. Kops,427.0,3
+a1877608-2b03-4620-b854-d57de44cd52e,R.A.J. Schonis,403.0,3
+74c13ffe-54e0-4cfd-a5fd-f21de61a0995,M.R.H.M. von Martels,372.0,3
+dab4cf29-4843-4261-b09b-973fe98dbf65,K. Bouchallikh,362.0,3
+13e26587-88d8-440b-bb93-527a8e845342,R.M. Boucke,352.0,3
+bf494e35-c009-4c74-a5c6-3cb2cd26bb51,A.A.H. van Campen,343.0,3
+58e27c9a-59be-407b-8213-714cf1d3acc4,S. Öztürk,313.0,3
+06e42e42-dbc8-4ccd-ac29-880d2ba1d05f,E. Ziengs,303.0,3
+666f31ca-041f-466d-9e78-804317921d69,R.H. (Romke) de Jong,292.0,3
+88e0734b-8c03-4daa-8ec5-055e36c07030,D.A.N. Koerhuis,262.0,3
+49e7fc50-90f5-4476-9275-c31f88864082,L.M. van Ginneken,250.0,3
+397c857a-fda0-414d-8fdc-8288cd3284aa,A.A. Aartsen,241.0,3
+e85125f3-b7cf-426c-9355-412838893f55,F. Boulakjar,234.0,3
+03d66e4a-8698-44fb-9c29-625630da268c,A.R. Hammelburg,229.0,3
+da9f33b0-80ca-49eb-a1ec-def3b46538d9,J.C. Sneller,220.0,3
+c8935902-45d6-45d6-ac31-77bc0e143154,A. Weverling,215.0,3
+face7642-1fd8-4ec1-a909-c2579b0bd8d2,W.L. Postma,183.0,3
+b221afb0-2758-4ace-846a-7bfc33389ad6,E.S. Akerboom,154.0,3
+425ddb12-0b71-44b6-9875-70b075dc99f7,K.B. Hagen,139.0,3
+8349fff0-99b3-449a-bd4d-932ae95b29da,H. Kat,138.0,3
+980a8ae3-b1c7-4912-ab9e-be3e6fd20d36,L. Vestering,123.0,3
+ce400601-651e-4ac9-a43e-ed8d4817b7fd,P.J.T. van Strien,122.0,3
+a59b540b-1460-4aa0-b9ce-19356f87c77e,R.R. van Aalst,120.0,3
+a3b17348-54cf-4bca-82d4-e62bd46c2fbc,E. Heinen,110.0,3
+cd02edbc-106e-46d1-8d70-6594741356ea,F.B. Minhas,108.0,3
+b625d2bf-da74-40a2-b013-2069a09dcb6c,P.J. Valstar,102.0,3
+7954eb2c-1bf5-42af-80dc-85f29b367db0,F.L. Idsinga,94.0,3
+a0b48551-42b7-4c55-9556-6b997d978ff2,P.C. (Peter) de Groot,81.0,3
+48d02bab-281c-4bd0-8a50-26bf90a38cc0,E. (Edgar) Mulder,73.0,3
+d9e78b0a-0a3b-44ef-acd9-15d6e9e19d60,J.J. Klink,68.0,3
+b6c27e98-0f7f-42a2-9fae-50b5f8ca76cc,H. Rahimi,45.0,3
+3322191a-8ca5-4a69-bb2f-d516086c28ae,M. Goudzwaard,41.0,3
+26f7a84e-45c7-4a94-94a2-f00a20c201aa,J.H. Terpstra,32.0,3
+f067f702-8e06-491a-9498-462205d1aaec,M.F. Strolenberg,23.0,3
+7ca42fe3-e292-4aff-9275-57889d920853,E.A. Haverkort,21.0,3
+8f81c0fd-e9cc-42ad-8e93-7bb0456955d3,G.P. van den Anker,9.0,3
+85f67e79-5385-444f-9bf0-be01daa37e03,M.J.T. Martens (EP/CDA),6.0,3
+c7822b58-103f-4612-87ef-648be97192c6,E.M. Westerveld,2073.0,4
+9b13c8c8-eba4-411e-b095-858e352d3178,R. Bisschop,2044.0,4
+2b533923-83a2-4ac6-b497-934a549b50ab,J.J. (Jasper) van Dijk,1836.0,4
 ba21eb65-8546-40e5-a425-0d228d0eaeac,E.E.W. Bruins,1823.0,4
-2e1211a4-9506-4dbe-ab15-1b881bb87074,L. van Tongeren,1723.0,4
-819764fa-3a17-467b-8327-30899ed083b6,D.J.G. Graus,1320.0,4
-9d2229a5-c46a-485a-9b82-315e270c3e9a,S. van Veldhoven,1251.0,4
-d1bb566e-a111-43b7-8856-273ebac1f753,S.P.R.A. van Weyenberg,1092.0,4
-012f6b98-9fad-4022-bbf9-edb9c7138a0f,W.J. Moorlag,1069.0,4
-ab97f146-7308-4a7e-9197-2ef5ee467a95,E. Dijkgraaf,954.0,4
-10870c31-0253-4fa0-a2bc-1a6d3c553028,J.L. Geurts,898.0,4
-d53f00ee-a955-434a-b636-f07d79859c49,M.F. Sienot,861.0,4
-44d2b41e-0e28-46c4-972b-daf49b4d9824,E.M.A. Smaling,804.0,4
-9ab41898-332f-4c08-a834-d58b4669c990,D. Yesilgöz-Zegerius,786.0,4
+cabae19e-836c-48c4-903e-7357789f9260,G.J. (Gijs) van Dijk,1272.0,4
+b29c0e00-7ac2-4c28-ab4f-8fceb156337b,C.M. van Brenk,1188.0,4
+56a86879-60e4-4cdb-b5f1-b66d6d090798,J.P. Kwint,1073.0,4
+4eacd971-8961-4956-b73b-7de0745de280,K.A.E. van den Hul,1070.0,4
+17f26a48-9f54-42a1-9890-c6da761a9a2f,P.H. van Meenen,987.0,4
+2690bccc-5463-459a-b1df-cb93e222b348,J.M. Paternotte,932.0,4
+388e72cf-63dd-4839-9ce7-5491b6bdcfd8,M.H. Bikker,735.0,4
+337a0873-453c-459f-99c7-2726975a71da,H. van der Molen,728.0,4
+8ba16b4b-5dc1-441e-9229-8bb63c903ce1,W.P.H.J. Peters,638.0,4
+88bf9f29-aa91-4ddd-ad2d-b73dfe6706ef,A. Kuik,635.0,4
+4a92f48a-0387-47c7-800e-cf59692e6411,M.R.J. Rog,607.0,4
 15959521-3e16-4fdb-be6b-36f0b0504e6d,P.H.M. Smeulders,589.0,4
+e70c3ee3-cca2-4521-abea-b124dcec0952,H.E. de Hoop,525.0,4
 dae67415-1ed1-4464-a59e-75170eb1925d,F.W. Futselaar,477.0,4
-3b8c5482-7bdb-414b-97c7-ca34fb10da6f,C.J. Schouten,465.0,4
-446e3e45-8e03-4f8d-bb52-ea092634378f,W.J.H. Lodders,462.0,4
-6bfaf570-5b6f-41e1-baf2-b833f6203513,G.J.P. van Otterloo,435.0,4
-77c541d2-49e3-483f-869d-134df420c5ea,A. Kops,427.0,4
-caaae646-de85-453f-b6e0-9b9b4f710f03,J.C. (Jan) Vos,410.0,4
-b8d002bc-ea6c-4f57-b36e-38415b205e09,A. (Aukje) de Vries,339.0,4
-58e27c9a-59be-407b-8213-714cf1d3acc4,S. Öztürk,313.0,4
-3983584c-76b6-4a70-9040-dadc84949e88,J.M. van Eijs,312.0,4
-9ea41959-b952-4e42-92fb-bc616ac17241,H.A.G. Ronnes,310.0,4
-2d120900-fed8-43ae-a234-2bc4af510867,R.J. Klever,310.0,4
-88e0734b-8c03-4daa-8ec5-055e36c07030,D.A.N. Koerhuis,262.0,4
-c6b2bdaf-8c1f-4b88-a8cb-167941b98bfb,R.A. van Vliet,256.0,4
-c955972d-2702-4d28-8461-262072218f3f,B. Visser,249.0,4
-d0d8dcbd-4818-4925-a684-13767c7dae0d,E.J. Slootweg,236.0,4
-e85125f3-b7cf-426c-9355-412838893f55,F. Boulakjar,234.0,4
-c8935902-45d6-45d6-ac31-77bc0e143154,A. Weverling,215.0,4
-b1e4718d-bf16-4b46-91fd-946b42bed3af,L. Jacobi,193.0,4
-f0ff5ae5-e0e8-4a26-af3a-93c8b5947dc4,D. Hoogland,184.0,4
-9522ae6b-a187-4f51-9df7-1b0feb767d6e,W. Koolmees,184.0,4
-7dc8c80e-6b9a-47e5-b61f-d57bcb36158f,S. Geleijnse,179.0,4
-54cbf78c-ae5e-49b7-8fcc-41d0fb7b5855,A.Z. Merkies,169.0,4
-aa612b6e-b61d-43a8-8775-c83839a9f6ef,J.J. van Klaveren,168.0,4
-b221afb0-2758-4ace-846a-7bfc33389ad6,E.S. Akerboom,154.0,4
-0c33030f-88e2-44c8-803d-6dd7c58c1378,R.P. van Laar,150.0,4
-5a2cb9b8-4a4c-4860-8793-59da092434b6,M.G.J. Harbers,149.0,4
-6c2ee55a-fa05-4a41-b522-c878c6a61ce8,A.A. (Albert) de Vries,144.0,4
-d6c2b5eb-b21a-440a-b628-75492d313ffa,J. Houwers,140.0,4
-425ddb12-0b71-44b6-9875-70b075dc99f7,K.B. Hagen,139.0,4
-4bfc5a46-654d-445f-9b71-fc3e06d40ae4,F. Bashir,133.0,4
-49f5b5f1-da8f-40a0-b78e-0616e2f30f78,Y. Cegerek,125.0,4
-77d2c6f1-3af4-4256-b52f-23fcb7bb8be2,B.G. de Boer,121.0,4
-7c43c8c2-1958-496c-8060-b0f3bf652992,B. Madlener,111.0,4
-de674538-350f-4a5a-9f8e-fa8f7c4b93ca,S. de Rouwe,108.0,4
-ac969248-8799-4f53-ad71-76815c79da35,P.F.C. (Paulus) Jansen,91.0,4
-a0b48551-42b7-4c55-9556-6b997d978ff2,P.C. (Peter) de Groot,81.0,4
-aa316142-d6ee-4138-bf48-37cd7d11d058,R.A. Vermeij,81.0,4
-d3023879-e3c7-411b-bb8a-1a0be0ca6035,J. Taverne,67.0,4
-4a9d1641-505a-4e22-96d3-36be9d1e6322,V.A. Groot,64.0,4
-61721e3f-a394-42ff-9885-8a58aa1d1612,Y.J. van Hijum,52.0,4
-cd5a2cfd-7689-4a6e-aed1-df2a773bab9c,H.J.M. Leenders,50.0,4
-2c1bbe45-f5e6-4896-b487-5d2864198a11,R.W. Leegte,48.0,4
-98cf30be-80d9-498a-966f-10f3ae8ffe22,H. Neppérus,44.0,4
-26f7a84e-45c7-4a94-94a2-f00a20c201aa,J.H. Terpstra,32.0,4
-7ca42fe3-e292-4aff-9275-57889d920853,E.A. Haverkort,21.0,4
+196d0048-0369-4786-ba81-bda9da8c3636,B. van Kent,430.0,4
+cfb17042-9f10-4e44-99f4-358bad067455,M.J. van Rooijen,369.0,4
+356e5fc9-831f-4d9c-be2f-fd35a99e865b,H.M. Palland,348.0,4
+b7a52679-bac9-4e00-9dfd-06a22a7cf088,M. Mohandis,343.0,4
+b9cfefa1-1e5e-4fd7-a9d5-458e4c3a20db,H.J. Beertema,341.0,4
+c3b1dca8-2cb4-4025-9527-36163a098c1f,A.D. Wiersma,301.0,4
+522d59a0-10ba-488f-a27a-a1dda7581900,R.J. (Rudmer) Heerema,271.0,4
+14a5b9c6-b7e3-4a59-9083-ab81f1d50f7e,L. Ypma,270.0,4
+97ffe642-648f-4dab-a0e8-0720e96e3e35,J.Z.C.M. Tielen,265.0,4
+d89044ef-b7df-4a15-be10-d342fe381664,W. Paulusma,252.0,4
+a04d4b85-56f0-448f-b5e8-28b5340af204,M.J.T.G. van Beukering-Huijbregts,228.0,4
+fb291eb2-962a-482f-971a-0b62673f9a86,J.M.P. van der Laan,205.0,4
+973da897-66c7-4010-a98d-505e0e97a60c,I.J.M. Michon-Derkzen,188.0,4
+872e3c31-98a5-40cb-b7dc-9c821f3b1bca,T.E. Siderius,185.0,4
+68a869d7-3216-4208-9b57-e87405a11abb,Z. Özdil,176.0,4
+0d70272a-5caf-4f32-aecb-76277e55999f,L.M. Werner,147.0,4
+10eeecd7-86d3-462c-b305-b66c787d6c9b,K.C.J. Straus,135.0,4
+9f855643-68a2-409e-b4fe-81b92547212a,S. Mutluer,120.0,4
+c4f7c468-721e-4953-97f2-bff05fe570c4,Z. El Yassini,114.0,4
+0e34f732-337a-4339-961f-8c18d68e714d,M.L.J. Paul,113.0,4
+0b55495e-b33f-4707-96b7-d9c62bb68669,P.J. Duisenberg,112.0,4
+4d6bf62d-9d27-49b5-b00f-254d6ff6e4e1,M. Wörsdörfer,105.0,4
+6a54c095-9872-4322-81be-114b74233d40,J.J. van der Werf,94.0,4
+8509e44d-0f9b-413a-a2cd-f64d656c3955,J. van den Hil,87.0,4
+5d3c16f6-cad0-432f-b850-8a62cfb6526c,T.M. Jadnanansing,69.0,4
+93ace320-ab4e-42d3-9783-b2e2e02eb546,C.N.A. Nijkerken-de Haan,68.0,4
+f289b7eb-f6ba-415b-90d9-1124c652637c,F. Sahla,58.0,4
+d642dcc9-3f86-49d1-96c9-ae2771d1e89a,B.M.G. Smals,51.0,4
+c3adeaa2-c232-48f9-967d-caf4b0b51719,A.W. Lucas,31.0,4
+8767e9de-869e-4e8a-940f-1a63d15eab3c,A.H.J. de Kort,26.0,4
+0cd71c11-bddf-46af-a796-780a4756c2b0,H. Bevers,23.0,4
+2b223ce1-e251-462b-a5fc-971c92bbf37c,D. de Neef,22.0,4
 70af2625-600a-4ff6-bfe5-52b2ca26b437,J.A. Hennis-Plasschaert,17.0,4
-8f81c0fd-e9cc-42ad-8e93-7bb0456955d3,G.P. van den Anker,9.0,4
-ffb9d98c-95af-42f8-974f-a0eb99c90837,C. van Nieuwenhuizen-Wijbenga,8.0,4
-b23257b9-1d5e-4d4f-a2ee-cc4501ae5c6a,R. van der Velde,4.0,4
-2d6d4590-453c-4970-9640-6a64c5d9645c,M.E. Huizing,5.0,5
-9e009009-0ec2-4eea-9a2e-dfd82f88db87,M.H.P. van Dam,5.0,5
-148dfb11-3f22-46f3-9c7d-62a0c3c98d7e,B.I. van der Burg,11.0,6
-33647c30-4edf-4fdf-93e5-5977180982a0,T.M.Ch. Elias,12.0,7
+148dfb11-3f22-46f3-9c7d-62a0c3c98d7e,B.I. van der Burg,11.0,4
+722997ad-c4fa-4012-9ea5-f1314978764b,M.A.J. Snoeren,10.0,4
+0137f25d-849f-428a-b69b-822301b2274e,S. Kerseboom,6.0,4
+306ecdd8-bc7c-4311-aaf0-ccc29222313f,S.M. Richardson,6.0,4
+14d9be8b-5e75-401c-a1cc-7a8ab59b36e7,A.A. Asante,5.0,4
+b41b2403-9f06-4d55-adc5-b0777373ca7e,C.A.M. van der Plas,2880.0,5
+98aa8bde-85b0-49ed-9795-e2eeb206e3b8,C. Stoffer,2753.0,5
+16596afa-9e56-4d0a-a715-f40592825937,T. Kuzu,2421.0,5
+ab15ce32-a527-4526-a5b2-0f2cdb92feeb,W.R. van Haga,2371.0,5
+0ae6735e-4b1b-4302-a20e-bbe5b72155c3,S.H. Simons,2091.0,5
+d847851a-777b-43c6-83b3-392672659edc,P.H. Omtzigt,2019.0,5
+09155809-0b6e-4f9f-a75b-026aa4b35588,F. Azarkan,1874.0,5
+3e48d4c9-0d66-4b50-9f9c-969b5e314a42,N.L. den Haan,1765.0,5
+a68468b6-51ea-440c-9387-b44ba10ad8b6,L.A.J.M. Dassen,1416.0,5
+f31cabe4-e1f4-46db-88a9-b46ba44dded4,N. Gündogan,1103.0,5
+7cbb2d95-46b2-4fcb-b129-9505f56e7f07,D.G.M. Ceder,953.0,5
+a437e923-725f-415e-a01d-5588a7af933e,K.P. Piri,911.0,5
+9f0c39d6-4a57-4849-9215-aa1147c7e0f6,N.J.F. Pouw-Verweij,907.0,5
+d34e1efc-fbba-4ad8-823a-61bc3f25d580,M. Koekkoek,803.0,5
+c6e26bd3-724f-45d3-93af-ef431e6fcd42,B.J. Eerdmans,702.0,5
+7564c685-2691-4796-9159-ebd5df4fdc8d,C. Teunissen,686.0,5
+859e1824-cc60-4304-9293-dca932ebbed2,S.R.T. van Baarle,667.0,5
+66b2be3d-10f8-46a4-90c6-b86005df0a50,S. Maatoug,512.0,5
+94f6aaa0-69ed-4721-a62c-c2b592bec175,D.J. Eppink,503.0,5
+9e79de98-e914-4dc8-8dc7-6d7cb09b93d7,B.C. Kathmann,437.0,5
+d59d1492-57b6-482b-88b6-b2b77c45c33d,O.R. Ephraim,325.0,5
+942a29b8-057f-4dba-a8cd-3c35e5a81aaf,H. Bontenbal,312.0,5
+da756f9c-3f10-4ab8-9fa8-75812e248959,J. Wuite,241.0,5
+ec571f94-11b8-47d7-bb47-fd0d2d7c7f07,K. Arib,227.0,5
+a396ae20-6309-456b-a5ae-e4068dea8a67,A.P.C. (Tony) van Dijck,201.0,5
+9c8bc5bc-8d13-4c11-be37-57a43a1d734b,S.P.A. Erkens,183.0,5
+e5c4753f-d2d8-4a4a-ae9d-62118892a731,R.P. Brekelmans,171.0,5
+034829b1-019f-4ee2-8961-83e82ac2eaa3,M. (Martin) Bosma,128.0,5
+4bf69aa9-29a7-44db-b7ee-8bfa40e343dd,Q.M. Rajkowski,116.0,5
+64f39510-b420-4b01-8b5e-2b2f2b0aad91,P. van Houwelingen,107.0,5
+eb79af3c-a66d-4374-b9e7-34d7f3e92dc7,H.A.J. Smolders,102.0,5
+8ee20f38-f3f0-4ff9-b5d9-84557b5ddcb1,H.H. van der Woude,83.0,5
+ef8d31db-0876-4998-b0d9-056643260d46,V.D.D. van Weerdenburg,73.0,5
+950c21d2-8a14-406d-b3af-877360bbd0ab,A. Podt,62.0,5
+ea21d788-7cfe-41ff-b22f-0664397139af,U. Ellian,61.0,5
+f23be4bd-7b2b-45dd-be84-4f76f11b624a,R.J. Kamminga,51.0,5
+13d5095e-c5df-4cbb-a2f4-c0bb142e9397,R. Verkuijlen,36.0,5
+359e90b6-6f1f-47e9-a46b-d0ff54836077,F.J.H. Jansen,35.0,5
+3239df09-c975-4598-b608-b67c74a07e08,H. Dekker-Abdulaziz,34.0,5
+08ad50b1-831e-4f50-bed4-97d9d42b0752,R.J. Dekker,30.0,5
+557f8bd5-9f66-4bed-9b5f-86746bb0600a,G.F.C. van Meijeren,22.0,5
+0c463ce0-e8cb-4066-b37c-e664dd2f4203,S. Warmerdam,1.0,5
+0be150ac-e44d-483e-bdbf-299647e9f8b2,A.C.G. Bikker,14.0,6
+efbd64bd-4263-433f-a3f2-67386477de49,J.E. Thijsen,13.0,6
+e740c2a5-57ae-47ef-bcd2-fbfcca2affc1,A.M. Sneek ,9.0,6
+7adae072-f9e6-4c0c-a1ae-fc10e9fad200,X.J. Ruiz-Maduro,8.0,6
+a6727ba5-e45d-4f28-b2fb-6bb73d255d81,C.G. Dammers,8.0,6
+39264f53-3ba8-4732-a408-afebe5bec233,D.G. de Sousa-Croes,5.0,6
+618bbc2f-4dc0-41a2-8ae0-7dd1e4a76c90,V.H.C. de Weever,5.0,6
+409289ab-9547-46db-be9f-d8e3d7c1df41,L.M. Marlin-Romeo,5.0,6
+58fc3889-ed2a-4cb0-bbd8-54ef85e3f9a1,G.T. Sulvaran,5.0,6
+2d6d4590-453c-4970-9640-6a64c5d9645c,M.E. Huizing,5.0,7
+9e009009-0ec2-4eea-9a2e-dfd82f88db87,M.H.P. van Dam,5.0,7
+bdadad68-b920-4b3a-aba2-9a3141d26821,P.J.M.J. Moors,0.0,8
