@@ -1,0 +1,34 @@
+Largest Community Analysis – Conclusions
+
+To better understand the low correspondence between the Leiden communities
+and political parties (NMI = 0.15), we examined the largest detected
+community in more detail.
+
+Community 0 contains 76 MPs across 10 party labels. VVD is the largest
+party represented, with 23 MPs (30.3%). Therefore, no single party
+dominates the community.
+
+Within Community 0, 579 edges connect MPs from different parties.
+These are cross-party MP-pair edges: each edge represents a pair of MPs
+from different parties who collaborated on at least one motion. The value
+579 therefore represents edges, not the total number of motions.
+
+The most frequent cross-party connections by number of MP-pair edges are:
+- CDA – VVD: 63
+- D66 – VVD: 54
+- CDA – D66: 39
+- PvdA – VVD: 35
+- CDA – SP: 31
+
+Overall, the analysis shows that the largest Leiden community is not
+equivalent to a single political party. MPs from several party labels
+appear together in the same collaboration community and are connected
+through cross-party collaborations. This provides a concrete example of
+the limited correspondence between the detected communities and the
+formal party partition indicated by the overall NMI of 0.15.
+
+Something to be careful of:
+The number of edges between two parties should not directly be interpreted
+as the strength of collaboration between those parties. Parties with more
+MPs have more possible MP pairs. This analysis is therefore used as a
+descriptive case study of the largest detected community.
